@@ -12,7 +12,7 @@ public class printinginteger {
 	static double bonusamt;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double fat,milkQty,bonusamt,Bamt,Finalamt;
+		double fat,milkQty,bonusamt = 6,Bamt,Finalamt;
 		double totalamt;
 		String type,cow = null,buffalo = null;
 		System.out.println("Enter the milk Quantity");
