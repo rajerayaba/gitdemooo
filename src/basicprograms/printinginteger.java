@@ -28,7 +28,11 @@ public class printinginteger {
 		{
 			bonusamt=(6*milkQty);
 		}
-		
+		else 
+		{
+			System.out.println("invalid input");
+			
+		}
 		
 		System.out.println("Enter the milk fat");
 		fat= s.nextInt();
